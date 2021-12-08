@@ -1,0 +1,11 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: spring-boot-with-swagger
+
+
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
