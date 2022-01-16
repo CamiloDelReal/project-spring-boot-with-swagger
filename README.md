@@ -1,5 +1,3 @@
-# project-spring-boot-with-swagger
-
 # Spring-Boot with Swagger
 Example of endpoints documentation using Swagger
 
